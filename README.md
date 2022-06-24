@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurdiantoro10
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Laravel and React
+- 🌱 I’m currently learning Laravel and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
